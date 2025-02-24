@@ -1,0 +1,11 @@
+.history
+.jj
+.env
+.o
+.ob
+.exe
+node_modules/
+*.o
+*.dylib
+*.so
+06-cachemoney
